@@ -87,5 +87,6 @@ public class MainActivity extends AppCompatActivity {
         displayForTeamB(scoreTeamB);
         //Reset point Team A dan Team B ke 0
         // commit kedua
+        //commit ketiga
     }
 }
